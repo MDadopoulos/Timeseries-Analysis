@@ -1,1 +1,2 @@
 # Timeseries-Analysis
+A small project for course Timeseries that involves analyzing a time series dataset, fitting ARIMA models, and conducting various statistical tests and visualizations to understand the time-dependent structure of the data.
